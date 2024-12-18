@@ -1,0 +1,11 @@
+id;peer;recommendedpeer
+1;felisasi;fatimarh
+2;felisasi;lemuelge
+3;felisasi;garigusn
+4;fatimarh;lemuelge
+5;fatimarh;jesusaha
+6;lemuelge;fatimarh
+7;lemuelge;jesusaha
+8;jesusaha;lemuelge
+9;jesusaha;felisasi
+10;jesusaha;fatimarh

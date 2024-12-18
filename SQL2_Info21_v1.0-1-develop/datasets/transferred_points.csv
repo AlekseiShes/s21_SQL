@@ -1,0 +1,17 @@
+id;checkingpeer;checkedpeer;pointsamount
+1;lemuelge;felisasi;2
+2;felisasi;fatimarh;1
+3;fatimarh;garigusn;1
+4;fatimarh;felisasi;1
+5;felisasi;garigusn;2
+6;jesusaha;lemuelge;1
+7;lemuelge;jesusaha;1
+8;lemuelge;fatimarh;1
+9;fatimarh;lemuelge;2
+10;garigusn;fatimarh;1
+11;garigusn;lemuelge;1
+12;garigusn;jesusaha;2
+13;jesusaha;felisasi;1
+14;felisasi;jesusaha;1
+15;lemuelge;garigusn;1
+16;jesusaha;fatimarh;1
